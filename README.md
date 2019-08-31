@@ -1,7 +1,7 @@
 # BaiduPCS_NET
-百度网盘下载和上传工具。BaiduPCS 项目的 .net 4.0 封装。 See https://github.com/GangZhuo/BaiduPCS .
+百度网盘下载和上传工具。BaiduPCS 项目的 .net 4.0 封装。 See https://github.com/GangZhuo/BaiduPCS.
 
-此项目还在开发中，可能存在 BUG 和不稳定，请过段时间再来。
+此项目还在开发中，可能存在 BUG 和不稳定，仅供试用。
 
 功能：
 * 图形界面，
@@ -9,6 +9,7 @@
 * 断点续传(上传和下载都支持)，
 * 上传目录，
 * 下载目录。
+* 第三方登录
 
 注意：
 * 不支持回收站，
